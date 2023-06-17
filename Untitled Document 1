@@ -1,0 +1,13 @@
+<html>
+<body>
+<h1 style="background-color:tomato">MOHITHA</h1>
+<h1 style="background-color:gray">RAJU</h1>
+<h1 style="background-color:cyan">LAKSHMI</h1><br>
+<h1 style="color:yellow">MOHITHA</h1>
+<h1 style="color:green">LAKSHMI</h1>
+<h1 style="color:orange">RAJU</h1><BR>
+<h1 style="border:2px solid cyan;"><font color="green">MOHITHA</font></h1>
+<h1 style="border:2px solid blue;">LAKSHMI</h1>
+<h1 style="border:2px solid orange;">RAJU</h1><BR>
+</body>
+</html>
